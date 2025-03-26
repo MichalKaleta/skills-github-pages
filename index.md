@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog\
+title: Welcome to my blog
 
-I dont really want to change anything here
+div: I dont really want to change anything here
 ---
 
